@@ -1,6 +1,3 @@
-pip install fastai
-
-
 #Importing libraries
 from fastai import *
 from fastai.vision import *
